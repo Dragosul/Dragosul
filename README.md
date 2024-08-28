@@ -1,4 +1,4 @@
-I learn programming
+Not much to see here
 
 <!---
 Dragosul/Dragosul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
